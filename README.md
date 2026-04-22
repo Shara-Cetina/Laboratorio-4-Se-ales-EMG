@@ -10,6 +10,9 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 ## Metodología
 ## Diagrama de flujo
 ### Parte A
+<img width="849" height="636" alt="Captura de pantalla 2026-04-22 165117" src="https://github.com/user-attachments/assets/0e059d49-9445-4c21-9679-40903f6ca8c4" />
+<img width="845" height="307" alt="Captura de pantalla 2026-04-22 165335" src="https://github.com/user-attachments/assets/5b83f92d-b095-42a2-81aa-37f674b0d4f3" />
+
 ### Parte B
 ### Parte C
 ## Resultados
