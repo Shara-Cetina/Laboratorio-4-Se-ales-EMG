@@ -38,6 +38,7 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
   <img src="https://github.com/user-attachments/assets/0e8c781c-3d45-45af-8924-9e9d2b3ada65" width="400"/>
 </p>
 
+<div align="center">
 ### Resultados de cada contracción simulada
 
   | Contracción   | MNF (Hz)  | MDF (Hz)  |
@@ -48,6 +49,7 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 | Contraccion_4 | 163.749431 | 199.833333 |
 | Contraccion_5 | 163.676518 | 199.833333 |
 
+</div>
 
 ### Evolución de las frecuencias
 <p align="center">
