@@ -30,7 +30,7 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 <img src="https://github.com/user-attachments/assets/32812072-62b6-42cd-b9d8-90e61788319c" width="400"/>
 </p>
  
-### Contracciones simuladas (original y filtrada)
+#### Contracciones simuladas (original y filtrada)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/26c5c0a3-1879-49ca-ae06-0f4020fd9b4e" width="400"/>
   <img src="https://github.com/user-attachments/assets/0e8c781c-3d45-45af-8924-9e9d2b3ada65" width="400"/>
@@ -38,7 +38,13 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 
 ### Resultados de cada contracción simulada
 <p align="center">
-  <img width="437" height="128" alt="Captura de pantalla 2026-04-23 000144" src="https://github.com/user-attachments/assets/539c68b2-7152-47d3-bfcb-91f503e9bc94" />
+  | Contracción   | MNF (Hz)  | MDF (Hz)  |
+|--------------|----------:|----------:|
+| Contraccion_1 | 162.355172 | 199.833333 |
+| Contraccion_2 | 163.347246 | 199.833333 |
+| Contraccion_3 | 163.908955 | 199.833333 |
+| Contraccion_4 | 163.749431 | 199.833333 |
+| Contraccion_5 | 163.676518 | 199.833333 |
 </p>
 
 ### Evolución de las frecuencias
