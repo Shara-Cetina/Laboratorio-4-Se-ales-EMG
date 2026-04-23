@@ -16,6 +16,34 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 ### Parte B
 ### Parte C
 ## Resultados
+### Señal EMG generador de señales, original y filtrada
+<p align="center">
+<img width="874" height="406" alt="Captura de pantalla 2026-04-22 235415" src="https://github.com/user-attachments/assets/5c9c1ec5-21bb-48cb-91a6-739b13e9d596" />
+<img width="877" height="403" alt="Captura de pantalla 2026-04-22 235724" src="https://github.com/user-attachments/assets/32812072-62b6-42cd-b9d8-90e61788319c" />
+</p>
+
+### Contracciones simuladas, original y filtradas
+<p align="center">
+  <img width="498" height="578" alt="Captura de pantalla 2026-04-22 235925" src="https://github.com/user-attachments/assets/26c5c0a3-1879-49ca-ae06-0f4020fd9b4e" />
+  <img width="500" height="575" alt="Captura de pantalla 2026-04-23 000009" src="https://github.com/user-attachments/assets/0e8c781c-3d45-45af-8924-9e9d2b3ada65" />
+</p>
+
+### Resultados de cada contracción simulada
+<p align="center">
+  <img width="437" height="128" alt="Captura de pantalla 2026-04-23 000144" src="https://github.com/user-attachments/assets/539c68b2-7152-47d3-bfcb-91f503e9bc94" />
+</p>
+
+### Evolución de las frecuencias
+<p align="center">
+  <img width="492" height="356" alt="Captura de pantalla 2026-04-23 000255" src="https://github.com/user-attachments/assets/fd32480e-38a0-43ba-b805-325f0e4a5e3a" />
+</p>
+
+La evolución de la frecuencia media (MNF) y la frecuencia mediana (MDF) a lo largo de las contracciones simuladas no presenta variaciones significativas, lo que indica que existe poca variabilidad espectral en la señal. La estabilidad de la frecuencia mediana (MDF) sugiere que el contenido en frecuencia permanece constante en todas las contracciones, lo cual es esperable al tratarse de una señal sintética con un espectro prácticamente fijo.
+Por otro lado, el ligero incremento observado en la frecuencia media (MNF) podría atribuirse a pequeñas variaciones en la amplitud, efectos de discretización o la presencia de ruido en la señal.
+Estos resultados son coherentes con lo esperado, ya que al ser una señal “ideal”, carece de dinámica fisiológica. En consecuencia, no reproduce los cambios típicos de un EMG real, como las variaciones espectrales asociadas a incrementos de fuerza o a la aparición de fatiga.
+
+<p align="center">
+</p>
 ## Análisis de resultados
 - Identificar el mecanismo fisiológico mediante el cual parámetros como la frecuencia media y frecuencia mediana experimentan cambios a medida que el músculo tiende a fatigarse.
 - Determinar el alcance y las posibles limitaciones de emplear parámetros del dominio frecuencial en contextos como fisiología del deporte. 
