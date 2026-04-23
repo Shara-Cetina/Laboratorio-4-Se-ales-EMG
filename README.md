@@ -28,15 +28,17 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 ### Señales EMG Generador de señales
 #### Original y filtrada
 <p align="center">
-<img src="https://github.com/user-attachments/assets/5c9c1ec5-21bb-48cb-91a6-739b13e9d596" width="400"/>
-<img src="https://github.com/user-attachments/assets/32812072-62b6-42cd-b9d8-90e61788319c" width="400"/>
+<img src="https://github.com/user-attachments/assets/4baf197a-e798-4415-8625-55de7a2aa7b0" width="400"/>
+<img src="https://github.com/user-attachments/assets/a2420ba8-eb11-4f46-a5e1-81e0dc7c77df" width="400"/>
+
 </p>
  
 #### Contracciones simuladas (original y filtrada)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/26c5c0a3-1879-49ca-ae06-0f4020fd9b4e" width="400"/>
-  <img src="https://github.com/user-attachments/assets/0e8c781c-3d45-45af-8924-9e9d2b3ada65" width="400"/>
+  <img src="https://github.com/user-attachments/assets/3f2797c1-70ba-4122-a63d-260794849514" width="400"/>
+  <img src="https://github.com/user-attachments/assets/313ff873-41eb-47c6-886b-1e15b7208bf4" width="400"/>
 </p>
+
 
 <div align="center">
  
@@ -67,22 +69,22 @@ Estos resultados son coherentes con lo esperado, ya que al ser una señal “ide
 ### Señales EMG Paciente
 #### Original y filtrada
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/72fa9528-d7f7-4f47-ae7b-fac276be4796" width="400"/>
-  <img src="https://github.com/user-attachments/assets/db25adfb-d7cf-4779-97b2-fe1cc1b9258d" width="400"/>
+  <img src="https://github.com/user-attachments/assets/ea7e7c86-6b90-4e79-9971-de8e5ece2914" width="400"/>
+  <img src="https://github.com/user-attachments/assets/edf49441-af38-41bb-9471-35328992f095" width="400"/>
 
  
-  <img src="https://github.com/user-attachments/assets/6c3eb02a-14b8-4b56-9178-6f222dafc2dc" width="400"/>
-  <img src="https://github.com/user-attachments/assets/d578e25d-50a6-4892-bc16-a83813252282" width="400"/>
+  <img src="https://github.com/user-attachments/assets/4c7df783-ba27-461a-9ce7-6b03081285c5" width="400"/>
+  <img src="https://github.com/user-attachments/assets/1354faa0-b042-4346-87d8-ceecb09c2d6d" width="400"/>
 </p>
 
 ### Segmentos de contracción
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f22ff0ec-2d2c-4ebd-b5e7-84a3d6bf343c" width="300"/>
-  <img src="https://github.com/user-attachments/assets/5202c2e2-8897-436e-b128-916e7acccda2" width="300"/>
-  <img src="https://github.com/user-attachments/assets/2312a0b6-75db-48cd-9a12-6d96268eefe5" width="300"/>
- 
-  <img src="https://github.com/user-attachments/assets/238d1cca-a85e-4fcd-a5e1-c080205716db" width="300"/>
-  <img src="https://github.com/user-attachments/assets/1edd9bd5-0772-4054-b9ed-1f0d628839be" width="300"/>
+  <img src="https://github.com/user-attachments/assets/cfc90413-fc2d-47c1-b9cb-69bf6f3e5af8" width="300"/>
+  <img src="https://github.com/user-attachments/assets/cbbbeb9b-0233-4e42-be4c-356d24a3d4ca" width="300"/>
+  <img src="https://github.com/user-attachments/assets/93156dc3-9d09-4550-b416-97ef144a7b06" width="300"/>
+
+  <img src="https://github.com/user-attachments/assets/a9763879-8719-4c82-ae2a-7c121fd6628c" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a1e6f420-f8cc-4ace-acd3-f3ca9c404c0e" width="300"/>
 </p>
 
 <div align="center">
