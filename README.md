@@ -107,22 +107,22 @@ Estos resultados son coherentes con lo esperado, ya que al ser una señal “ide
 
 ## Transformada rápida de Fourier (FFT) para cada contracción
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1ebca35b-49e7-4e4c-badd-1ab98c942a97" width="300"/>
-  <img src="https://github.com/user-attachments/assets/2bee861b-42aa-4113-8367-edb18a075156" width="300"/>
-  <img src="https://github.com/user-attachments/assets/a3308ab0-30bf-44a4-87ba-365fb1fd7fae" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1ebca35b-49e7-4e4c-badd-1ab98c942a97" width="325"/>
+  <img src="https://github.com/user-attachments/assets/2bee861b-42aa-4113-8367-edb18a075156" width="325"/>
+  <img src="https://github.com/user-attachments/assets/a3308ab0-30bf-44a4-87ba-365fb1fd7fae" width="325"/>
  
-  <img src="https://github.com/user-attachments/assets/9f52fc70-6fc0-463b-b07e-6f70f70b36ad" width="300"/>
-  <img src="https://github.com/user-attachments/assets/5881041a-5af6-4701-84f8-cf4a93fedbab" width="300"/>
+  <img src="https://github.com/user-attachments/assets/9f52fc70-6fc0-463b-b07e-6f70f70b36ad" width="325"/>
+  <img src="https://github.com/user-attachments/assets/5881041a-5af6-4701-84f8-cf4a93fedbab" width="325"/>
 </p>
 
 ## Espectro de amplitud
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/83dfbb8f-abf1-49eb-81b5-c9fdcf61e188" width="300"/>
-  <img src="https://github.com/user-attachments/assets/ecd115f1-5132-4cc6-ac86-5d742e7b1dc4" width="300"/>
-  <img src="https://github.com/user-attachments/assets/fbde9ee2-413e-4a0a-98ba-fcab443863bd" width="300"/>
+  <img src="https://github.com/user-attachments/assets/83dfbb8f-abf1-49eb-81b5-c9fdcf61e188" width="325"/>
+  <img src="https://github.com/user-attachments/assets/ecd115f1-5132-4cc6-ac86-5d742e7b1dc4" width="325"/>
+  <img src="https://github.com/user-attachments/assets/fbde9ee2-413e-4a0a-98ba-fcab443863bd" width="325"/>
  
-  <img src="https://github.com/user-attachments/assets/9a1e303a-a2cb-421d-aa9f-eef2f19350ac" width="300"/>
-  <img src="https://github.com/user-attachments/assets/87802805-61cd-4f43-a95c-77985bab9969" width="300"/>
+  <img src="https://github.com/user-attachments/assets/9a1e303a-a2cb-421d-aa9f-eef2f19350ac" width="325"/>
+  <img src="https://github.com/user-attachments/assets/87802805-61cd-4f43-a95c-77985bab9969" width="325"/>
 </p>
 
 # c. Comparar los espectros de las primeras contracciones con los de las últimas. (FALTA)
