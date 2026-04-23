@@ -10,7 +10,15 @@ Este proyecto contiene el código y la información para comprender la adquisici
 El propósito de este laboratorio es que el estudiante aplique técnicas de análisis espectral y comprenda la importancia del cálculo de atributos en el dominio de la frecuencia dentro del procesamiento de señales, específicamente en señales electromiográficas (EMG). Se busca que el estudiante entienda el análisis espectral como una herramienta que permite observar la distribución de la energía al descomponer una señal en sus componentes de frecuencia y amplitud. Asimismo, mediante el cálculo de parámetros como la frecuencia media y la frecuencia mediana, junto con el análisis espectral de señales biológicas, se pretende que el estudiante evalúe el impacto de estos procedimientos en la detección de fatiga muscular en escenarios no controlados y reconozca su relevancia en aplicaciones propias del ámbito de la ingeniería biomédica. Además, se busca que el estudiante relacione estos parámetros con características fisiológicas y de calidad de la señal.
 
 ## Metodología (FALTA)
+<p align="justify">
+Para el desarrollo de la presente práctica se adquirieron dos señales electromiográficas (EMG), una generada mediante un generador de señales y otra registrada en una mujer de 19 años, a partir del músculo braquial durante un protocolo de esfuerzo máximo de 60 segundos. Ambas señales fueron procesadas en Python con el objetivo de identificar la cantidad de contracciones musculares en el intervalo analizado y calcular parámetros espectrales como la frecuencia media y la frecuencia mediana. En el caso de la señal obtenida de la participante, se aplicó un filtro digital FIR con ventana de Hamming, configurado como pasa banda entre 20 Hz y 450 Hz, con el fin de eliminar artefactos de movimiento y ruido de alta frecuencia sin afectar la fase de los potenciales de acción.
 
+<p align="justify">
+Para el análisis de la fatiga muscular, se realizó una segmentación basada en las contracciones previamente identificadas. A cada segmento se le aplicó la Transformada Rápida de Fourier (FFT) para obtener el espectro de potencia y calcular la Frecuencia Media (MNF) y la Frecuencia Mediana (MDF) a partir de la densidad espectral de potencia. Finalmente, se evaluó la evolución temporal de estos parámetros con el propósito de identificar el desplazamiento del contenido espectral hacia frecuencias más bajas, característico de la fatiga muscular, contrastando los resultados con el comportamiento fisiológico esperado para un individuo de este rango etario bajo condiciones de esfuerzo máximo.
+
+
+
+ 
 ### Diagrama de flujo
 #### Parte A
 <img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/1d436047-969e-47b0-9a9d-e0b557a56fd4" />
