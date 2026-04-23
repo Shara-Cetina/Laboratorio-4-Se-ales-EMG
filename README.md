@@ -12,7 +12,8 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 ### Diagrama de flujo
 #### Parte A
 <img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/1d436047-969e-47b0-9a9d-e0b557a56fd4" />
-<img width="1022" height="386" alt="5 1" src="https://github.com/user-attachments/assets/26f6d135-3125-4f16-a40e-99e5c06da573" />
+<img width="1022" height="508" alt="5 1" src="https://github.com/user-attachments/assets/065fced0-af17-4e8d-8e41-ba36a89eefb2" />
+
 
 #### Parte B
 <img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/b12d3ced-7dee-440f-9a8c-83a2c8b51a3b" />
