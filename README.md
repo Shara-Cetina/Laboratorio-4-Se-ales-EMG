@@ -11,7 +11,7 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 
 ## Metodología 
 <p align="justify">
-Para el desarrollo de la presente práctica, se adquirieron dos señales electromiográficas (EMG), una señal de control generada mediante un generador de señales y otra registrada de forma real en una voluntaria de 19 años. Esta última se obtuvo a partir del músculo bíceps braquial durante un protocolo de esfuerzo máximo de 60 segundos, utilizando un agarre de fuerza constante sobre un objeto cilíndrico. Ambas señales fueron procesadas en Python con el objetivo de validar la respuesta del sistema ante señales conocidas e identificar la cantidad de eventos contráctiles en el registro real para el cálculo de parámetros espectrales. En el caso de la señal humana, se aplicó un filtro digital FIR con ventana de Hamming, configurado como pasa-banda entre 20 Hz y 450 Hz, permitiendo eliminar de forma efectiva los artefactos de movimiento y el ruido de alta frecuencia sin comprometer la fase de los potenciales de acción.
+Para el desarrollo de la presente práctica se adquirieron dos señales electromiográficas (EMG), una generada mediante un generador de señales y otra registrada en una mujer de 19 años, a partir del músculo braquial durante un protocolo de esfuerzo máximo de 60 segundos. Ambas señales fueron procesadas en Python con el objetivo de identificar la cantidad de contracciones musculares en el intervalo analizado y calcular parámetros espectrales como la frecuencia media y la frecuencia mediana. En el caso de la señal obtenida de la participante, se aplicó un filtro digital FIR con ventana de Hamming, configurado como pasa banda entre 20 Hz y 450 Hz, con el fin de eliminar artefactos de movimiento y ruido de alta frecuencia sin afectar la fase de los potenciales de acción.
 
 <p align="justify">
 Para el análisis de la fatiga muscular, se realizó una segmentación basada en las contracciones previamente identificadas. A cada segmento se le aplicó la Transformada Rápida de Fourier (FFT) para obtener el espectro de potencia y calcular la Frecuencia Media (MNF) y la Frecuencia Mediana (MDF) a partir de la densidad espectral de potencia. Finalmente, se evaluó la evolución temporal de estos parámetros con el propósito de identificar el desplazamiento del contenido espectral hacia frecuencias más bajas, característico de la fatiga muscular, contrastando los resultados con el comportamiento fisiológico esperado para un individuo de este rango etario bajo condiciones de esfuerzo máximo.
@@ -142,19 +142,19 @@ Estos resultados son coherentes con lo esperado, ya que al ser una señal “ide
 <img width="713" height="483" alt="WhatsApp Image 2026-04-23 at 15 51 05" src="https://github.com/user-attachments/assets/be543dc0-c903-436a-b92e-96c1b4960861" />
 </p> 
 
-# f. Redactar conclusiones sobre el uso del análisis espectral como herramienta diagnóstica en electromiografía. (FALTA)
+# f. Redactar conclusiones sobre el uso del análisis espectral como herramienta diagnóstica en electromiografía. (FALTA) / JUANITA
 
 <p align="center">
 </p>
 
-## Análisis de resultados
+## Análisis de resultados / JUANITA
 - Identificar el mecanismo fisiológico mediante el cual parámetros como la frecuencia media y frecuencia mediana experimentan cambios a medida que el músculo tiende a fatigarse.
 - Determinar el alcance y las posibles limitaciones de emplear parámetros del dominio frecuencial en contextos como fisiología del deporte. 
 
-## Conclusión
+## Conclusión / JUANITA
 Breve reflexión sobre la factibilidad de emplear técnicas espectrales en la detección de la fatiga muscular en escenarios no controlados como, por ejemplo, durante entrenamiento de atletas
 
-## Discusión
+## Discusión / JUANITA
 - ¿Cambian los valores de frecuencia media y mediana a medida que el músculo se acerca a la fatiga? ¿A qué podría atribuirse este cambio?
 - ¿Cómo justifica el uso de herramientas como la transformada de Fourier en escenarios como, por ejemplo, terapias de rehabilitación? 
 
