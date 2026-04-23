@@ -23,16 +23,17 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 <img width="1024" height="768" alt="Parte A" src="https://github.com/user-attachments/assets/14518f97-f881-48f5-98df-3e7f52a1875c" />
 
 ## Resultados
-### Señal EMG generador de señales, original y filtrada
+### Señales EMG 
+#### Generador de señales (original y filtrada)
 <p align="center">
-<img width="874" height="406" alt="Captura de pantalla 2026-04-22 235415" src="https://github.com/user-attachments/assets/5c9c1ec5-21bb-48cb-91a6-739b13e9d596" />
-<img width="877" height="403" alt="Captura de pantalla 2026-04-22 235724" src="https://github.com/user-attachments/assets/32812072-62b6-42cd-b9d8-90e61788319c" />
+<img src="https://github.com/user-attachments/assets/5c9c1ec5-21bb-48cb-91a6-739b13e9d596" width="400"/>
+<img src="https://github.com/user-attachments/assets/32812072-62b6-42cd-b9d8-90e61788319c" width="400"/>
 </p>
-
-### Contracciones simuladas, original y filtradas
+ 
+### Contracciones simuladas (original y filtrada)
 <p align="center">
-  <img width="498" height="578" alt="Captura de pantalla 2026-04-22 235925" src="https://github.com/user-attachments/assets/26c5c0a3-1879-49ca-ae06-0f4020fd9b4e" />
-  <img width="500" height="575" alt="Captura de pantalla 2026-04-23 000009" src="https://github.com/user-attachments/assets/0e8c781c-3d45-45af-8924-9e9d2b3ada65" />
+  <img src="https://github.com/user-attachments/assets/26c5c0a3-1879-49ca-ae06-0f4020fd9b4e" width="400"/>
+  <img src="https://github.com/user-attachments/assets/0e8c781c-3d45-45af-8924-9e9d2b3ada65" width="400"/>
 </p>
 
 ### Resultados de cada contracción simulada
