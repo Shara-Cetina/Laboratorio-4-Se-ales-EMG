@@ -7,7 +7,8 @@ Este proyecto contiene el código y la información para comprender la adquisici
 ## Propósito
 El propósito de este laboratorio es que el estudiante aplique técnicas de análisis espectral y comprenda la importancia del cálculo de atributos en el dominio de la frecuencia dentro del procesamiento de señales, específicamente en señales electromiográficas (EMG). Se busca que el estudiante entienda el análisis espectral como una herramienta que permite observar la distribución de la energía al descomponer una señal en sus componentes de frecuencia y amplitud. Asimismo, mediante el cálculo de parámetros como la frecuencia media y la frecuencia mediana, junto con el análisis espectral de señales biológicas, se pretende que el estudiante evalúe el impacto de estos procedimientos en la detección de fatiga muscular en escenarios no controlados y reconozca su relevancia en aplicaciones propias del ámbito de la ingeniería biomédica. Además, se busca que el estudiante relacione estos parámetros con características fisiológicas y de calidad de la señal.
 
-## Metodología
+## Metodología (FALTA)
+
 ## Diagrama de flujo
 ### Parte A
 <img width="849" height="636" alt="Captura de pantalla 2026-04-22 165117" src="https://github.com/user-attachments/assets/0e059d49-9445-4c21-9679-40903f6ca8c4" />
@@ -42,8 +43,43 @@ La evolución de la frecuencia media (MNF) y la frecuencia mediana (MDF) a lo la
 Por otro lado, el ligero incremento observado en la frecuencia media (MNF) podría atribuirse a pequeñas variaciones en la amplitud, efectos de discretización o la presencia de ruido en la señal.
 Estos resultados son coherentes con lo esperado, ya que al ser una señal “ideal”, carece de dinámica fisiológica. En consecuencia, no reproduce los cambios típicos de un EMG real, como las variaciones espectrales asociadas a incrementos de fuerza o a la aparición de fatiga.
 
+### Señal EMG de paciente, original y filtrada
+<p align="center">
+  <img width="914" height="356" alt="Captura de pantalla 2026-04-23 001739" src="https://github.com/user-attachments/assets/72fa9528-d7f7-4f47-ae7b-fac276be4796" />
+  <img width="922" height="358" alt="Captura de pantalla 2026-04-23 001806" src="https://github.com/user-attachments/assets/db25adfb-d7cf-4779-97b2-fe1cc1b9258d" />
+  <img width="773" height="353" alt="Captura de pantalla 2026-04-23 001922" src="https://github.com/user-attachments/assets/6c3eb02a-14b8-4b56-9178-6f222dafc2dc" />
+  <img width="784" height="355" alt="Captura de pantalla 2026-04-23 001953" src="https://github.com/user-attachments/assets/d578e25d-50a6-4892-bc16-a83813252282" />
+</p>
+
+### Segmentos de contracción
+<p align="center">
+  <img width="922" height="339" alt="Captura de pantalla 2026-04-23 002148" src="https://github.com/user-attachments/assets/f22ff0ec-2d2c-4ebd-b5e7-84a3d6bf343c" />
+  <img width="922" height="339" alt="Captura de pantalla 2026-04-23 002234" src="https://github.com/user-attachments/assets/5202c2e2-8897-436e-b128-916e7acccda2" />
+  <img width="923" height="337" alt="Captura de pantalla 2026-04-23 002215" src="https://github.com/user-attachments/assets/2312a0b6-75db-48cd-9a12-6d96268eefe5" />
+  <img width="922" height="338" alt="Captura de pantalla 2026-04-23 002258" src="https://github.com/user-attachments/assets/238d1cca-a85e-4fcd-a5e1-c080205716db" />
+  <img width="924" height="338" alt="Captura de pantalla 2026-04-23 002320" src="https://github.com/user-attachments/assets/1edd9bd5-0772-4054-b9ed-1f0d628839be" />
+</p>
+
+### Resultados de cada contracción
+<p align="center">
+<img width="470" height="118" alt="Captura de pantalla 2026-04-23 002411" src="https://github.com/user-attachments/assets/95654dc5-7fa6-47aa-9c79-614741fedcfb" />
+</p>
+
+### Evolución de las frecuencias
+<p align="center">
+  <img width="529" height="355" alt="Captura de pantalla 2026-04-23 002525" src="https://github.com/user-attachments/assets/7b90269b-41e8-47dc-9baa-407ea0910dd9" />
+</p>
+
+# Discutir la relación entre los cambios de frecuencia y la fisiología de la fatiga muscular. (FALTA)
+
+### Transformada rápida de Fourier (FFT) para cada contracción
 <p align="center">
 </p>
+<p align="center">
+</p>
+<p align="center">
+</p>
+
 ## Análisis de resultados
 - Identificar el mecanismo fisiológico mediante el cual parámetros como la frecuencia media y frecuencia mediana experimentan cambios a medida que el músculo tiende a fatigarse.
 - Determinar el alcance y las posibles limitaciones de emplear parámetros del dominio frecuencial en contextos como fisiología del deporte. 
