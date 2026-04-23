@@ -11,11 +11,16 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 
 ## Diagrama de flujo
 ### Parte A
-<img width="849" height="636" alt="Captura de pantalla 2026-04-22 165117" src="https://github.com/user-attachments/assets/0e059d49-9445-4c21-9679-40903f6ca8c4" />
-<img width="845" height="307" alt="Captura de pantalla 2026-04-22 165335" src="https://github.com/user-attachments/assets/5b83f92d-b095-42a2-81aa-37f674b0d4f3" />
+<img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/1d436047-969e-47b0-9a9d-e0b557a56fd4" />
+<img width="1022" height="386" alt="5 1" src="https://github.com/user-attachments/assets/26f6d135-3125-4f16-a40e-99e5c06da573" />
 
 ### Parte B
+<img width="1024" height="768" alt="4" src="https://github.com/user-attachments/assets/b12d3ced-7dee-440f-9a8c-83a2c8b51a3b" />
+<img width="1021" height="367" alt="5 1" src="https://github.com/user-attachments/assets/b3c9c1b5-3196-495e-8f58-051a60e2aad7" />
+
 ### Parte C
+<img width="1024" height="768" alt="Parte A" src="https://github.com/user-attachments/assets/14518f97-f881-48f5-98df-3e7f52a1875c" />
+
 ## Resultados
 ### Señal EMG generador de señales, original y filtrada
 <p align="center">
