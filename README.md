@@ -129,6 +129,11 @@ Estos resultados son coherentes con lo esperado, ya que al ser una señal “ide
 
 # c. Comparar los espectros de las primeras contracciones con los de las últimas. (FALTA)
 # e. Calcular y discutir el desplazamiento del pico espectral y su relación con el esfuerzo sostenido.(FALTA)
+
+<p align="center">
+<img width="713" height="483" alt="WhatsApp Image 2026-04-23 at 15 51 05" src="https://github.com/user-attachments/assets/be543dc0-c903-436a-b92e-96c1b4960861" />
+</p> 
+
 # f. Redactar conclusiones sobre el uso del análisis espectral como herramienta diagnóstica en electromiografía. (FALTA)
 
 <p align="center">
