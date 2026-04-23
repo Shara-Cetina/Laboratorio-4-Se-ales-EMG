@@ -85,10 +85,18 @@ Estos resultados son coherentes con lo esperado, ya que al ser una señal “ide
   <img src="https://github.com/user-attachments/assets/1edd9bd5-0772-4054-b9ed-1f0d628839be" width="300"/>
 </p>
 
+<div align="center">
+
 ### Resultados de cada contracción
-<p align="center">
-<img width="470" height="118" alt="Captura de pantalla 2026-04-23 002411" src="https://github.com/user-attachments/assets/95654dc5-7fa6-47aa-9c79-614741fedcfb" />
-</p>
+
+| Contracción   | MNF (Hz) | MDF (Hz) |
+|--------------|---------:|---------:|
+| Contraccion_1 | 191.31 | 172.67 |
+| Contraccion_2 | 188.54 | 174.00 |
+| Contraccion_3 | 188.92 | 169.33 |
+| Contraccion_4 | 188.82 | 168.00 |
+| Contraccion_5 | 186.60 | 169.33 |
+</div>
 
 ### Evolución de las frecuencias
 <p align="center">
