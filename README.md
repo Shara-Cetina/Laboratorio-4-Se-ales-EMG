@@ -25,8 +25,8 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 <img width="1024" height="768" alt="Parte A" src="https://github.com/user-attachments/assets/14518f97-f881-48f5-98df-3e7f52a1875c" />
 
 ## Resultados
-### Señales EMG 
-#### Generador de señales (original y filtrada)
+### Señales EMG Generador de señales
+#### Original y filtrada
 <p align="center">
 <img src="https://github.com/user-attachments/assets/5c9c1ec5-21bb-48cb-91a6-739b13e9d596" width="400"/>
 <img src="https://github.com/user-attachments/assets/32812072-62b6-42cd-b9d8-90e61788319c" width="400"/>
@@ -40,7 +40,7 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 
 <div align="center">
  
-### Resultados de cada contracción simulada
+#### Resultados de cada contracción simulada
 
 
   | Contracción   | MNF (Hz)  | MDF (Hz)  |
@@ -53,7 +53,7 @@ El propósito de este laboratorio es que el estudiante aplique técnicas de aná
 
 </div>
 
-### Evolución de las frecuencias
+#### Evolución de las frecuencias
 <p align="center">
   <img width="492" height="356" alt="Captura de pantalla 2026-04-23 000255" src="https://github.com/user-attachments/assets/fd32480e-38a0-43ba-b805-325f0e4a5e3a" />
 </p>
@@ -64,21 +64,25 @@ Por otro lado, el ligero incremento observado en la frecuencia media (MNF) podr�
 Estos resultados son coherentes con lo esperado, ya que al ser una señal “ideal”, carece de dinámica fisiológica. En consecuencia, no reproduce los cambios típicos de un EMG real, como las variaciones espectrales asociadas a incrementos de fuerza o a la aparición de fatiga.
 </p>
 
-### Señal EMG de paciente, original y filtrada
+### Señales EMG Paciente
+#### Original y filtrada
 <p align="center">
-  <img width="914" height="356" alt="Captura de pantalla 2026-04-23 001739" src="https://github.com/user-attachments/assets/72fa9528-d7f7-4f47-ae7b-fac276be4796" />
-  <img width="922" height="358" alt="Captura de pantalla 2026-04-23 001806" src="https://github.com/user-attachments/assets/db25adfb-d7cf-4779-97b2-fe1cc1b9258d" />
-  <img width="773" height="353" alt="Captura de pantalla 2026-04-23 001922" src="https://github.com/user-attachments/assets/6c3eb02a-14b8-4b56-9178-6f222dafc2dc" />
-  <img width="784" height="355" alt="Captura de pantalla 2026-04-23 001953" src="https://github.com/user-attachments/assets/d578e25d-50a6-4892-bc16-a83813252282" />
+  <img src="https://github.com/user-attachments/assets/72fa9528-d7f7-4f47-ae7b-fac276be4796" width="400"/>
+  <img src="https://github.com/user-attachments/assets/db25adfb-d7cf-4779-97b2-fe1cc1b9258d" width="400"/>
+
+ 
+  <img src="https://github.com/user-attachments/assets/6c3eb02a-14b8-4b56-9178-6f222dafc2dc" width="400"/>
+  <img src="https://github.com/user-attachments/assets/d578e25d-50a6-4892-bc16-a83813252282" width="400"/>
 </p>
 
 ### Segmentos de contracción
 <p align="center">
-  <img width="922" height="339" alt="Captura de pantalla 2026-04-23 002148" src="https://github.com/user-attachments/assets/f22ff0ec-2d2c-4ebd-b5e7-84a3d6bf343c" />
-  <img width="922" height="339" alt="Captura de pantalla 2026-04-23 002234" src="https://github.com/user-attachments/assets/5202c2e2-8897-436e-b128-916e7acccda2" />
-  <img width="923" height="337" alt="Captura de pantalla 2026-04-23 002215" src="https://github.com/user-attachments/assets/2312a0b6-75db-48cd-9a12-6d96268eefe5" />
-  <img width="922" height="338" alt="Captura de pantalla 2026-04-23 002258" src="https://github.com/user-attachments/assets/238d1cca-a85e-4fcd-a5e1-c080205716db" />
-  <img width="924" height="338" alt="Captura de pantalla 2026-04-23 002320" src="https://github.com/user-attachments/assets/1edd9bd5-0772-4054-b9ed-1f0d628839be" />
+  <img src="https://github.com/user-attachments/assets/f22ff0ec-2d2c-4ebd-b5e7-84a3d6bf343c" width="300"/>
+  <img src="https://github.com/user-attachments/assets/5202c2e2-8897-436e-b128-916e7acccda2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/2312a0b6-75db-48cd-9a12-6d96268eefe5" width="300"/>
+ 
+  <img src="https://github.com/user-attachments/assets/238d1cca-a85e-4fcd-a5e1-c080205716db" width="300"/>
+  <img src="https://github.com/user-attachments/assets/1edd9bd5-0772-4054-b9ed-1f0d628839be" width="300"/>
 </p>
 
 ### Resultados de cada contracción
