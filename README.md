@@ -155,10 +155,10 @@ El desplazamiento del pico espectral indica la frecuencia dominante de la señal
 En este caso, se observan irregularidades y ausencia de una tendencia clara, lo que sugiere que el pico espectral no es un indicador fiable de la fatiga en estos datos. Además, el espectro del EMG isométrico es ancho, con múltiples frecuencias activas, lo que puede provocar saltos en la localización del pico. Este comportamiento también puede verse afectado por ruido y por variaciones en el nivel de fuerza durante la contracción.
 </p> 
  
-# f. Redactar conclusiones sobre el uso del análisis espectral como herramienta diagnóstica en electromiografía. (FALTA) / JUANITA
+# f. Redactar conclusiones sobre el uso del análisis espectral como herramienta diagnóstica en electromiografía.
+<p align="justify">
+El análisis espectral, fundamentado en la Transformada Rápida de Fourier (FFT), constituye una herramienta diagnóstica objetiva y de alta precisión para la caracterización de la fatiga muscular. A diferencia del análisis en el dominio del tiempo, que solo permite observar variaciones en la amplitud, el seguimiento de parámetros como la Frecuencia Media (MNF) y la Frecuencia Mediana (MDF) permite identificar de manera temprana cambios en la velocidad de conducción de las fibras musculares. No obstante, la efectividad de esta herramienta depende estrechamente de una correcta segmentación de la señal y de la intensidad del esfuerzo físico, ya que, en sujetos jóvenes con mecanismos de recuperación eficientes, la estabilidad de estos indicadores puede señalar la ausencia de fatiga metabólica a pesar de la actividad muscular sostenida.
 
-<p align="center">
-</p>
 
 ## Análisis de resultados / JUANITA
 - Identificar el mecanismo fisiológico mediante el cual parámetros como la frecuencia media y frecuencia mediana experimentan cambios a medida que el músculo tiende a fatigarse.
