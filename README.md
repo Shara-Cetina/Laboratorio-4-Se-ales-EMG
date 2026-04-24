@@ -114,7 +114,7 @@ Estos resultados son coherentes con lo esperado, ya que al ser una señal “ide
 </p>
 
 <p align="justify">
-La frecuencia mediana (MDF) y la frecuencia media (MNF) están relacionadas con la velocidad de conducción de las fibras musculares. A medida que aparece la fatiga, esta velocidad disminuye, probablemente debido a cambios en el equilibrio iónico (como el aumento de K⁺ extracelular y la disminución del pH). Esto se refleja en una disminución de la MDF y la MNF, lo cual es un indicador de fatiga periférica. Sin embargo, el sistema nervioso puede compensar activando más unidades motoras o modificando su patrón de reclutamiento, lo que puede observarse como pequeñas variaciones en las frecuencias entre contracciones.
+La frecuencia mediana (MDF) y la frecuencia media (MNF) están relacionadas con la velocidad de conducción de las fibras musculares. A medida que aparece la fatiga, esta velocidad disminuye, probablemente debido a cambios en el equilibrio iónico. Esto se refleja en una disminución de la MDF y la MNF, lo cual es un indicador de fatiga periférica. Sin embargo, el sistema nervioso puede compensar activando más unidades motoras o modificando su patrón de reclutamiento, lo que puede observarse como pequeñas variaciones en las frecuencias entre contracciones.
 
 La adquisición de la señal EMG isométrica se realizó durante un periodo de 60 segundos. Para observar la fatiga de forma más evidente, podría considerarse un tiempo de registro mayor, una contracción sostenida más prolongada o evaluar otro músculo, lo que permitiría apreciar con mayor claridad la disminución progresiva de las frecuencias.
 </p>
