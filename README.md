@@ -135,13 +135,22 @@ Estos resultados son coherentes con lo esperado, ya que al ser una señal “ide
   <img src="https://github.com/user-attachments/assets/87802805-61cd-4f43-a95c-77985bab9969" width="325"/>
 </p>
 
-# c. Comparar los espectros de las primeras contracciones con los de las últimas. (FALTA)
-# e. Calcular y discutir el desplazamiento del pico espectral y su relación con el esfuerzo sostenido.(FALTA)
+<p align="justify">
+Al comparar los espectros de los primeros segmentos con los de los últimos, se observan cambios compatibles con fatiga muscular en un EMG isométrico. En los primeros segmentos, el espectro presenta un mayor contenido relativo en frecuencias altas, mientras que en los últimos se aprecia un ligero desplazamiento hacia frecuencias más bajas. Asimismo, se observa una disminución progresiva de la frecuencia media y la frecuencia mediana (indicadas por las líneas verde y roja), lo cual es consistente con un EMG isométrico sostenido y se asocia a la reducción de la velocidad de conducción de las fibras musculares.
+</p>
+
+## Desplazamiento del pico espectral
 
 <p align="center">
 <img width="713" height="483" alt="WhatsApp Image 2026-04-23 at 15 51 05" src="https://github.com/user-attachments/assets/be543dc0-c903-436a-b92e-96c1b4960861" />
 </p> 
 
+<p align="justify">
+El desplazamiento del pico espectral indica la frecuencia dominante de la señal electromiográfica en un instante dado. En contracciones isométricas sostenidas, suele esperarse un desplazamiento progresivo hacia frecuencias más bajas como consecuencia de la fatiga muscular. Sin embargo, este parámetro es más variable y sensible al ruido en comparación con la frecuencia media y la frecuencia mediana.
+
+En este caso, se observan irregularidades y ausencia de una tendencia clara, lo que sugiere que el pico espectral no es un indicador fiable de la fatiga en estos datos. Además, el espectro del EMG isométrico es ancho, con múltiples frecuencias activas, lo que puede provocar saltos en la localización del pico. Este comportamiento también puede verse afectado por ruido y por variaciones en el nivel de fuerza durante la contracción.
+</p> 
+ 
 # f. Redactar conclusiones sobre el uso del análisis espectral como herramienta diagnóstica en electromiografía. (FALTA) / JUANITA
 
 <p align="center">
